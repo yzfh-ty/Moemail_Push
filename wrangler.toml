@@ -1,3 +1,0 @@
-name = "moemail-wecom-bot"
-main = "worker.ts"
-compatibility_date = "2026-02-13"
