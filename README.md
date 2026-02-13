@@ -164,4 +164,4 @@ npm run deploy:cf
 
 ## 📜 许可证 (License)
 
-本仓库的代码及文档遵循 [知识共享 署名 4.0 国际 (CC BY 4.0) 许可协议 ](https://creativecommons.org/licenses/by/4.0/) 进行许可。
+本项目采用 [MIT License ](LICENSE) 开源。
