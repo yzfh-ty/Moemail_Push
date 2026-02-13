@@ -1,0 +1,16 @@
+{
+  "name": "moemail-push",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy:cf": "wrangler deploy"
+  },
+  "dependencies": {
+    "hono": "^4"
+  },
+  "devDependencies": {
+    "wrangler": "^4.65.0"
+  }
+}
