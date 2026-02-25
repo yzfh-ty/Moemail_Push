@@ -1,6 +1,6 @@
 # MoeMail to WeCom: 邮件通知与 Bitwarden 别名生成器
 
-一个部署在 **Cloudflare Workers** 上的轻量级服务，用于将 [MoeMail ](https://moemail.app/) 的新邮件 Webhook 转发为**企业微信机器人**通知，并提供了一个兼容 **Bitwarden ** 的邮箱别名创建接口。
+一个部署在 **Cloudflare Workers** 上的轻量级服务，用于将 [MoeMail ](https://moemail.app/) 的新邮件 Webhook 转发为**企业微信机器人**通知，并提供了一个兼容 **Bitwarden** 的邮箱别名创建接口。
 
 ---
 
